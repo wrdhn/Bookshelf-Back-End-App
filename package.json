@@ -1,0 +1,17 @@
+{
+  "name": "bookshelf-back-end-app",
+  "version": "1.0.0",
+  "description": "Submission Belajar Back-End Pemula dengan JavaScript By Dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
